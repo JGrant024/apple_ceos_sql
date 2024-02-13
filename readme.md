@@ -27,3 +27,4 @@ Mike Scott	1978
 John Sculley	1983
 Steve Jobs	1976
 Steve Jobs	1997# apple_ceos_sql
+# apple_ceos_sql
